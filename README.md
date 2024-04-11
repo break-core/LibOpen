@@ -1,6 +1,5 @@
-# LibOpen
-A mirror of Studio Elttob's in-house open source packages for Roblox development.
-**Please note that this repository is a read-only mirror, and does not accept code contributions.**
+# LibOpen fork
+A fork of Studio Elttob's LibOpen repo with PRs and issues open. This repo allows people to make changes that Elttob wouldn't implement otherwise, or something like that.
 
 ## Dependencies
 
